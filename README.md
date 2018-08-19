@@ -1,7 +1,7 @@
 
 ###                                          Kernel Tree for GIONEE F100SL (6.0 , 3.18.19)
 
-![F100SL](http://www.baidu.com/link?url=-Jpz0Zg2YJsVWzX6esEOze84Cv_4g94_DFGYSx3QIvgFTJwiP5dPGg0BooOFovGxJFilr_qfQmx6ztKOex0W7K&wd=&eqid=ecf7f04300025ffb000000045b78f39a)
+![F100SL](http://5.1015600.com/mobile/eea3bcd66c70c29dbe649248dc80588f.jpg)
 
 * Working now:
 1) All lcm drivers work
