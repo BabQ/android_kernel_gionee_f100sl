@@ -1,7 +1,7 @@
 
 ###                                          Kernel Tree for GIONEE F100SL (6.0 , 3.18.19)
 
-![F100SL](http://img2.imgtn.bdimg.com/it/u=2060733059,2437662985&fm=27&gp=0.jpg)
+![F100SL](http://img.pconline.com.cn/images/product/619654/20165/11/14629360829077855_sn8.jpg)
 
 * Working now:
 1) All lcm drivers work
